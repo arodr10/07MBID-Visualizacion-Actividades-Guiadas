@@ -1,8 +1,6 @@
 // Import stylesheets
 import './style.css';
 
-
-
 //Gráfico de columnas. Mi 1º gráfico
 
 var visualization = d3plus
